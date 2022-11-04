@@ -5,3 +5,4 @@ The latest changes to check amend 3
 The latest changes to check amend 4
 The latest changes to check amend 5
 New line!!!
+New line!!!2
