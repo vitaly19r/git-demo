@@ -1,6 +1,7 @@
-
 this line was added directly from github
-one more line is added
-
-the last change
-+some more data!
+The latest changes to check amend 1
+The latest changes to check amend 2
+The latest changes to check amend 3
+The latest changes to check amend 4
+The latest changes to check amend 5
+New line!!!
