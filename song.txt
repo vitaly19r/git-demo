@@ -11,8 +11,6 @@ Hello world! 2
 Very good day!
 This line was added in the branch feature))
 One more change was done for feature experiment))
-<<<<<<< HEAD
 This change was added at main branch new!
-=======
 One more change was done for main experiment))
->>>>>>> feature
+
